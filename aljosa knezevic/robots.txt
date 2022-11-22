@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /skills.html
+sitemap: https://github.com/aljosa91/projekat.git
